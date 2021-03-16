@@ -9,7 +9,7 @@ This repo will be used for other developers who use Gigasource public libraries 
 # How
 Whenever you find a bug in our npm public modules, feel free to report a bug with following information:
 
-1. <moduleName><moduleVersion>
+1. module-name@version
 2. Step to produce (optional)
 3. Actual result
 4. Expect result
