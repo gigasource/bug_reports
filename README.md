@@ -1,5 +1,5 @@
 # bug_reports
-This repo will be use for other developers who use or public library to report a bugs
+This repo will be use for other developers who use Gigasource public libraries for bugs report.
 
 # Gigasource npm modules
 1. https://www.npmjs.com/org/gigasource
